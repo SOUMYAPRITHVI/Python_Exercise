@@ -1,0 +1,20 @@
+English
+Spanish
+French
+German
+Chinese (Simplified)
+Chinese (Traditional)
+Japanese
+Korean
+Russian
+Arabic
+Hindi
+Bengali
+Portuguese
+Urdu
+Punjabi
+Malay
+Turkish
+Vietnamese
+Thai
+Italian
